@@ -1,1 +1,2 @@
 # JOGO-ROLAR_OS-DADOS
+#Jogo feito usando HTML,CSS e JAVASCRIPT.
